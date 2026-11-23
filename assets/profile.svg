@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff8a5c"/>
+      <stop offset="1" stop-color="#713b2b"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="500" fill="url(#bg)"/>
+  <circle cx="250" cy="185" r="91" fill="#f0c5a7"/>
+  <path d="M160 183c0-87 43-126 99-126 68 0 105 50 96 131-23-28-48-48-89-49-32 0-69 18-106 44z" fill="#25232a"/>
+  <path d="M92 500c8-121 70-184 158-184s150 63 158 184" fill="#25232a"/>
+  <path d="M192 291c17 21 36 31 58 31 23 0 43-10 59-31l18 29c-22 30-48 45-77 45s-55-15-77-45z" fill="#e6b294"/>
+  <text x="250" y="455" font-family="Arial,sans-serif" font-size="22" fill="#fff" text-anchor="middle" opacity=".85">YOUR PHOTO HERE</text>
+</svg>
